@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="btn_start_work">Start work on main thread</string>
+    <string name="btn_show_toast">Show toast</string>
+    <string name="text1">Text1</string>
+    <string name="text2">Text2</string>
+    <string name="tv_counter">0</string>
+
+</resources>
