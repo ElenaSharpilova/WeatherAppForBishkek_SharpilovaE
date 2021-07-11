@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Weather</string>
-    <string name="btn_start_work">Start work on main thread</string>
-    <string name="btn_show_toast">Show toast</string>
-    <string name="text1">Text1</string>
-    <string name="text2">Text2</string>
-    <string name="tv_counter">0</string>
+    <string name="bishkek">Бишкек</string>
+    <string name="refresh">Обновить</string>
+    <string name="sunset">Закат</string>
+    <string name="humidity">Влажность</string>
+    <string name="sunrise">Восход</string>
+    <string name="feels_like">Чувствуется как %s</string>
 
 </resources>
